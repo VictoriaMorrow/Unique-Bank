@@ -39,11 +39,7 @@ Outlier Observation: One distinct occupational category(Teacher) was identified 
 
 💻 Technical Stack
 
-Component
-
-Tool / Language
-
-Description
+Component Description
 
 Data Visualization
 
@@ -63,11 +59,7 @@ DAX (Data Analysis Expressions)
 
 Used to create complex calculated measures and columns (e.g., Average Interest Rate, Total Transaction Sum).
 
-Data Storage
-
-[Specify your data source, e.g., CSV, SQL Server]
-
-Source of the raw transactional, product, and customer occupation data.
+Data source - CSV from the bank
 
 🛠️ Project Setup
 
@@ -75,30 +67,15 @@ To fully engage with the interactive dashboard, please follow these steps:
 
 Prerequisites: Ensure Power BI Desktop is installed on your machine.
 
-Clone the Repository:
-
-git clone [https://github.com/](https://github.com/)[Your-Username]/[Your-Repo-Name].git
-
-
 Open the Report: Locate and open the primary project file: bank_data_analysis_dashboard.pbix
 
 Explore: The dashboard is fully interactive. Use the slicers and filters provided to drill down into specific product lines, channels, or regions.
-
-📁 Repository Contents
-
-.
-├── bank_data_analysis_dashboard.pbix   # Primary Power BI report file
-├── README.md                           # Project documentation
-└── data/                               # Optional: Directory containing source data files
-    └── bank_transactions_data.csv      # Placeholder for sample data
-
 
 🤝 Contact Information
 
 For questions or collaboration opportunities, please contact:
 
-Name: [Your Name]
+Name: Victoria Dan Bassey-Morrow
 
-LinkedIn: [Your LinkedIn Profile Link]
+LinkedIn: https://www.linkedin.com/in/victoria-bassey-morrow-25aa782b7/
 
-GitHub: @[Your-GitHub-Handle]
