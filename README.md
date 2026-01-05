@@ -3,7 +3,7 @@ This repository houses a comprehensive data analysis project focused on deriving
 
 The primary objective is to equip business stakeholders with detailed metrics on financial health and customer behavior to inform strategic decision-making in product development, security protocols, and market targeting.
 
-📊 Key Analytical Findings
+Key Analytical Findings
 
 The interactive Power BI dashboard is structured to deliver four core analytical perspectives:
 
@@ -37,7 +37,7 @@ Key Finding: A clear, positive correlation exists between average annual income 
 
 Outlier Observation: One distinct occupational category(Teacher) was identified as a significant outlier, demonstrating transaction behavior that deviates from the expected income-to-transaction relationship. This requires dedicated exploratory analysis.
 
-💻 Technical Stack
+Technical Stack
 
 Component Description
 
@@ -61,7 +61,7 @@ Used to create complex calculated measures and columns (e.g., Average Interest R
 
 Data source - CSV from the bank
 
-🛠️ Project Setup
+Project Setup
 
 To fully engage with the interactive dashboard, please follow these steps:
 
